@@ -7,3 +7,6 @@ Links:
 
 # Deploy Artem Shumeyko
 # https://www.youtube.com/watch?v=uLp-zgset00
+
+# CI/CD Артем Шумейко
+# https://www.youtube.com/watch?v=uLp-zgset00
